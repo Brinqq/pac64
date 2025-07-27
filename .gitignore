@@ -1,2 +1,4 @@
 lib/
 build/
+external/sdl/source
+.debugconfig
